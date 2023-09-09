@@ -1,4 +1,4 @@
-Seq#,ID#,Gender,M,R,F,FirstPurch,ChildBks,YouthBks,CookBks,DoItYBks,RefBks,ArtBks,GeogBks,ItalCook,ItalAtlas,ItalArt,Florence,Related Purchase,Mcode,Rcode,Fcode,Yes_Florence,No_Florence
+Seq#,ID#,Gender,M,R,F,FirstPurch,ChildBks,YouthBks,CookBks,DoItYBks,RefBks,ArtBks,GeogBks,ItalCook,ItalAtlas,ItalArt,Florence,RelatedPurchase,Mcode,Rcode,Fcode,Yes_Florence,No_Florence
 1,25,1,297,14,2,22,0,1,1,0,0,0,0,0,0,0,0,0,5,4,2,0,1
 2,29,0,128,8,2,10,0,0,0,0,0,0,0,0,0,0,0,0,4,3,2,0,1
 3,46,1,138,22,7,56,2,1,2,0,1,0,1,1,0,0,0,2,4,4,3,0,1
